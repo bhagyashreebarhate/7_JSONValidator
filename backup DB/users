@@ -1,0 +1,447 @@
+[{
+  "_id": {
+    "$oid": "634fbaa3449de3b9df7de6d8"
+  },
+  "email": "bbarhate14@gmail.com",
+  "password": "$2b$07$NellJxuq7XBPQlolGSQNyer2MEpnTaJUhIkD0WhmvLzGbWZv7OfhG",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1666169507925"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666169507945"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666169507945"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63593e5caec917ef19e129a2"
+  },
+  "email": "aryan@gmail.com",
+  "password": "$2b$07$BZhX9NBQV6KfP0qtWiLvKOxaHAYWAscrmMQoLoAWXf2HO1pdJgqFG",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1666793052640"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666793052652"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666793052652"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635b9ed825a821d864a39c21"
+  },
+  "FullName": "Bhagyashree",
+  "Organization": "Accenture",
+  "email": "bhagyashreebarhate86@gmail.com",
+  "password": "$2b$07$hC77.QHe1BDxidx1WOUCXO1b6XEA5Gv5e.Q5tLPInmQpVoztNeqjK",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1666948824024"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666948824037"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666948824037"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6365fba32bd6b0119da98a85"
+  },
+  "FullName": "bhagya",
+  "Organization": "ad",
+  "email": "bhagyashree.barhate@students.iiit.ac.in",
+  "password": "$2b$07$MBxbn06uBUx2BZeMcanAbummOkHMkoN/AwEVHFn3um6ka/SZabfDO",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1667627939946"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667627939960"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667627939960"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6365fc892bd6b0119da98a88"
+  },
+  "FullName": "bh",
+  "Organization": "i",
+  "email": "atayua",
+  "password": "$2b$07$yxkF3rcB9jbgpI8RzMcY2.HV15VhdxtPCljRlnVoV0XFbgpyvdRCu",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1667628169733"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667628169743"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667628169743"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63660160415d01cfa9542412"
+  },
+  "FullName": "q",
+  "Organization": "q",
+  "email": "abc",
+  "password": "$2b$07$U/KO7WpbcUkSYeb2Qtnpt.3SYx9ajq3yedjidfLi2l5MS25CgWBGa",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1667629408343"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667629408364"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667629408364"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6366a2eea6c06fb94e67d463"
+  },
+  "FullName": "MOHIT SHARMA",
+  "Organization": "KK",
+  "email": "sharmamht19@gmail.com",
+  "password": "$2b$07$RRl.f9JYHloLzCTGoe.OuecCHoT1kcJ0JmXVZWT0ZzGAVBaLB5wWe",
+  "userType": "Admin",
+  "date": {
+    "$date": {
+      "$numberLong": "1667670766839"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667670766875"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667670766875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6367e209ed3f1f89efa9319c"
+  },
+  "FullName": "Chegu Sai Poorna Chandu",
+  "Organization": "iiit",
+  "email": "chegu.saiteja12020@gmail.com",
+  "password": "$2b$07$.hdm031nWLZ8QU/LmYjJqebFD.8l0qj5uSEzJOJdLrCPcwcQm5Wmy",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1667752457355"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667752457380"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667752457380"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636811250a20db61220e374f"
+  },
+  "FullName": "kk",
+  "Organization": "kk",
+  "email": "kk",
+  "password": "$2b$07$Isjf8Dnb6B0N18Mpd3AVAe7Adwm3/NankJn42Porx9pI1EHvqTrau",
+  "userType": "Admin",
+  "date": {
+    "$date": {
+      "$numberLong": "1667764517996"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667764518018"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667764518018"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636940cbb4026d5ab6c0b76d"
+  },
+  "FullName": "ch",
+  "Organization": "ads",
+  "email": "chegu.saiteja2020@gmail.com",
+  "password": "$2b$07$BAJi22ukkkxHm/tn5.Bmpu0B5TLKi7pcCJFfwJmFq054rdrsW3..W",
+  "userType": "Admin",
+  "date": {
+    "$date": {
+      "$numberLong": "1667842251671"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667842251700"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667842251700"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6384801a58733ae8d71e362e"
+  },
+  "FullName": "ch",
+  "Organization": "as",
+  "email": "c@gmail.com",
+  "password": "$2b$07$JnMNc5d358RjFjVQ6zPpw.s8/yOSlZi1mCNQ9eHIZ963Rz69Qdhu2",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1669627930127"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669627930162"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669627930162"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6384999c1822e83b052f6212"
+  },
+  "FullName": "Mohit Sharma",
+  "Organization": "Dont know",
+  "email": "mohit@gmail.com",
+  "password": "$2b$07$BpDFFUPSyeotn.njGdiXQOm7PqgsZGvgSmBU42fmVBYB7WV9lxKjS",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1669634460001"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669634460028"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669634460028"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6385c0cd2375d6d731c1802a"
+  },
+  "FullName": "Aryan",
+  "Organization": "iiith",
+  "email": "aryanguptar741@gmail.com",
+  "password": "$2b$07$PLAKC33BcSfrYppGt1YSd.5x7Hl3rotg1KiFIeTNffY8X0RrljHF6",
+  "userType": "Admin",
+  "date": {
+    "$date": {
+      "$numberLong": "1669710029511"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669710029533"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669710029533"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63862095b5d3d81ef08f5841"
+  },
+  "FullName": "chandu",
+  "Organization": "iiith",
+  "email": "c1@gmail.com",
+  "password": "$2b$07$oOvn/wbqT.6tnEurJHCq5O2Yjk0F63yOAsxc3qftstinOME5W.ISS",
+  "userType": "Admin",
+  "date": {
+    "$date": {
+      "$numberLong": "1669734549243"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669734549267"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669734549267"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638621a0b5d3d81ef08f5854"
+  },
+  "FullName": "Chegu Sai Poorna Chandu",
+  "Organization": "iiit",
+  "email": "c2@gmail.com",
+  "password": "$2b$07$OZQNEuGicLxYbavTfCsr1e3ZP4jihVgReMmhApGTKz71/nbF2i3di",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1669734816126"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669734816149"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669734816149"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638621b6b5d3d81ef08f5858"
+  },
+  "FullName": "Chegu Sai Poorna Chandu",
+  "Organization": "iiit",
+  "email": "c3@gmail.com",
+  "password": "$2b$07$d8nDpUZIS6jfOG0/F4vyPedjdpvJaDcJa4DRLSWdCWxnzrRYoDZHa",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1669734838507"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669734838519"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669734838519"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638621d2b5d3d81ef08f585b"
+  },
+  "FullName": "Chegu Sai Poorna Chandu",
+  "Organization": "iiit",
+  "email": "c4@gmail.com",
+  "password": "$2b$07$qU//xZ8PX/YTTv3qZ1i1t.Alk2iBDEWw4ztWx16cKGxOw3xnsTXHq",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1669734866982"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669734867009"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669734867009"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638622cbb5d3d81ef08f585e"
+  },
+  "FullName": "Chegu Sai Poorna Chandu",
+  "Organization": "iiit",
+  "email": "c5@gmail.com",
+  "password": "$2b$07$jRnI/Ma1xxJS0u0LooDGcu.fNfEHKGP.GOpJ8pdZXWgp8.NZ.JYQW",
+  "userType": "EndUser",
+  "date": {
+    "$date": {
+      "$numberLong": "1669735115022"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669735115039"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669735115039"
+    }
+  },
+  "__v": 0
+}]
